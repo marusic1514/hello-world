@@ -1,2 +1,3 @@
 # hello-world
-Introducing myself to the world og Github
+Introducing myself to the world of Github
+OK, what am i supposed to do with this... I just want to program something cool...
